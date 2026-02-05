@@ -1,7 +1,9 @@
 # LED-Match-Game
 A Match-3 game implemented with ESP32-C3 and WS2812 LED strips.
+
 这是一个基于ESP32的LED灯带游戏系统，通过WiFi提供网页控制界面，实现了老虎与大象对战的互动游戏，支持多设备通信、音效、动画效果以及中英文双语界面.
-### 项目依赖库与技术栈
+
+项目依赖库与技术栈
 
 核心依赖库 ：
 - FastLED ：用于控制WS2812B灯带，实现灯光动画效果
