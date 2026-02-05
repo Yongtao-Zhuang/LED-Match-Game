@@ -46,5 +46,6 @@ A Match-3 game implemented with ESP32-C3 and WS2812 LED strips.
   
 项目通过模块化设计，将硬件控制、网络通信、游戏逻辑和用户界面分离，实现了一个功能完整、交互丰富的LED灯带游戏系统。
 
-后续计划
+后续计划/plan to do
+
 *1* 双人对战系统，支持2个用户分别扮演老虎和大象，在灯带上对战
